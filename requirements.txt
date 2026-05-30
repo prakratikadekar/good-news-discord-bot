@@ -1,3 +1,4 @@
-goodnews.py
+main.py
+discord.py
 feedparser
 python-dotenv
